@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+I like playing chess.My favourite fruit is strawberry.
